@@ -1,0 +1,29 @@
+{
+  "name": "js-redis-lock",
+  "version": "1.0.0",
+  "description": "distributed locking library using redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/varshneyanmol/js-redis-lock.git"
+  },
+  "author": "Anmol Varshney",
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "node.js",
+    "redis",
+    "distributed",
+    "lock"
+  ],
+  "bugs": {
+    "url": "https://github.com/varshneyanmol/js-redis-lock/issues"
+  },
+  "homepage": "https://github.com/varshneyanmol/js-redis-lock#readme",
+  "devDependencies": {
+    "redis": "^3.0.2"
+  }
+}
